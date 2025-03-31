@@ -24,7 +24,7 @@ The dashboard is divided into multiple sections for in-depth analysis:
 ### 2️⃣ **Vehicle Type Analysis**  
    - Shows booking trends for different **vehicle categories** (e.g., Mini, Prime, Auto, etc.).
    - Allows users to compare **vehicle preference** and demand.  
-   ![Vehicle Type Dashboard](link-to-vehicle-type-image)
+   ![Vehicle Type Dashboard](https://github.com/tanishkasharma29/Ola-Interactive_Dashboard/blob/main/Vehicle_Type.png?raw=true)
 
 ### 3️⃣ **Revenue Insights**  
    - Displays total revenue earned from **different ride categories** and time periods.
