@@ -39,7 +39,7 @@ The dashboard is divided into multiple sections for in-depth analysis:
 ### 5️⃣ **Ratings**  
    - Explores **customer ratings** and feedback trends.
    - Helps identify service quality improvement areas.  
-   ![Ratings Dashboard](link-to-ratings-image)
+   ![Ratings Dashboard](https://github.com/tanishkasharma29/Ola-Interactive_Dashboard/blob/main/Ratings.png?raw=true)
 
 ---
 
