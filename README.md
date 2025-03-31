@@ -34,7 +34,7 @@ The dashboard is divided into multiple sections for in-depth analysis:
 ### 4️⃣ **Cancellations Analysis**  
    - Analyzes **cancellation trends** and reasons.
    - Provides insights into customer and driver **cancellation rates** over time.  
-   ![Cancellations Dashboard](link-to-cancellations-image)
+   ![Cancellations Dashboard](https://github.com/tanishkasharma29/Ola-Interactive_Dashboard/blob/main/Cancellation.png?raw=true)
 
 ### 5️⃣ **Ratings**  
    - Explores **customer ratings** and feedback trends.
