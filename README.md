@@ -19,7 +19,7 @@ The dashboard is divided into multiple sections for in-depth analysis:
 ### 1️⃣ **Overall Summary**  
    - Provides a high-level overview of **total bookings, revenue, and key metrics.**
    - Helps in tracking **daily, weekly, and monthly performance trends.**  
-   ![Overall Dashboard](link-to-overall-image)
+   ![Overall Dashboard](https://github.com/tanishkasharma29/Ola-Interactive_Dashboard/blob/main/Overall.png?raw=true)
 
 ### 2️⃣ **Vehicle Type Analysis**  
    - Shows booking trends for different **vehicle categories** (e.g., Mini, Prime, Auto, etc.).
