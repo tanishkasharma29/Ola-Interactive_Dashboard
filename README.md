@@ -29,7 +29,7 @@ The dashboard is divided into multiple sections for in-depth analysis:
 ### 3️⃣ **Revenue Insights**  
    - Displays total revenue earned from **different ride categories** and time periods.
    - Helps in understanding peak revenue-generating hours and locations.  
-   ![Revenue Dashboard](link-to-revenue-image)
+   ![Revenue Dashboard](https://github.com/tanishkasharma29/Ola-Interactive_Dashboard/blob/main/Revenue.png?raw=true)
 
 ### 4️⃣ **Cancellations Analysis**  
    - Analyzes **cancellation trends** and reasons.
